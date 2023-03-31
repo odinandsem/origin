@@ -1,0 +1,10 @@
+# Ignore files in the tmp/ subdirectory
+tmp/
+
+# Ignore files ending with _old or _backup suffix
+*_old
+*_backup
+
+# Ignore Thumbs.db and .DS_Store files
+Thumbs.db
+.DS_Store
